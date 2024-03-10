@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Emanuela Azevedo 
-- Graduanda em Análise e Desenvolvimento de Sistemas
+- Graduanda em Análise e Desenvolvimento de Sistemas.
