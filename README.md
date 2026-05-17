@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @Emanuela Azevedo 
-- Graduanda em Análise e Desenvolvimento de Sistemas.
+# 👩‍💻 Emanuela Azevedo
+
+girl in tech | ADS
+
