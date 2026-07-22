@@ -1,63 +1,128 @@
-<div align="center">
+<h1 align="center">
+  Olá! 👋 Eu sou <span style="color:#ff4fa3">Seu Nome</span>
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Emanuela%20Azevedo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<h3 align="center">
+💻 Desenvolvedor Java | Estudante de Análise e Desenvolvimento de Sistemas
+</h3>
 
-<br><br>
-
-<h2>Software Developer</h2>
-
-<p>
-Desenvolvedora em formação apaixonada por tecnologia,<br>
-criando soluções digitais através de código e inovação.
+<p align="center">
+Apaixonado por tecnologia e por transformar ideias em soluções.<br>
+Atualmente focado em desenvolvimento Back-end com Java e Spring Boot,
+sempre buscando aprender novas tecnologias.
 </p>
 
-<br>
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Front-end+%7C+Back-end;Construindo+projetos+com+qualidade;Sempre+aprendendo+novas+tecnologias"/>
+## 🚀 Tecnologias
 
-<br><br>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,typescript,html,css,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github" />
 
-<br><br>
-
-</div>
-
+</p>
 
 ---
 
-## Sobre mim
+<table>
+<tr>
 
-Sou **Emanuela Azevedo**, desenvolvedora de software em formação.
+<td width="50%">
 
-Tenho interesse em desenvolvimento de aplicações modernas, boas práticas de programação e criação de soluções que unam tecnologia, funcionalidade e uma boa experiência para o usuário.
+## 👨‍💻 Sobre mim
 
-Atualmente venho aprimorando minhas habilidades em desenvolvimento **Front-end e Back-end**, construindo projetos para evoluir tecnicamente e transformar ideias em aplicações reais.
+- 🎓 Estudante de ADS
+- ☕ Desenvolvedor Java
+- 🌱 Aprendendo Spring Boot
+- 💙 Apaixonado por tecnologia
+- 🚀 Buscando minha primeira oportunidade
 
+</td>
+
+<td width="50%">
+
+## 📚 Atualmente
+
+- 🔥 Desenvolvendo projetos Java
+- 🌱 Estudando APIs REST
+- 💻 Aprendendo React
+- 📖 Melhorando Front-end
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Tecnologias
+# ⭐ Projetos
+
+| Projeto | Descrição |
+|---------|-----------|
+| 🍔 **Sistema SalgAki** | Sistema completo para gerenciamento de salgaderia utilizando Java + Spring Boot + MySQL |
+| 🖥️ **Sistema SalgAki Front-end** | Interface moderna utilizando HTML, CSS e JavaScript |
+
+---
+
+# 📊 Habilidades
+
+Java
+
+██████████████████░░ 90%
+
+Spring Boot
+
+█████████████████░░░ 85%
+
+MySQL
+
+████████████████░░░░ 80%
+
+JavaScript
+
+███████████████░░░░░ 75%
+
+React
+
+██████████████░░░░░░ 70%
+
+---
+
+# 📈 Estatísticas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
 
 </div>
 
+---
+
+# 🏆 Conquistas
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌎 Onde me encontrar
+
+📧 email@email.com
+
+💼 LinkedIn
+
+🐙 GitHub
 
 ---
 
 <div align="center">
 
-### Contato
-
-<a href="SEU_LINK_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF">
-</a>
-
-<a href="SEU_LINK_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
+> *"Código é como humor. Quando você tem que explicar, é ruim."* — Cory House
 
 </div>
+
