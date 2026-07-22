@@ -1,128 +1,63 @@
-<h1 align="center">
-  Olá! 👋 Eu sou <span style="color:#ff4fa3">Seu Nome</span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Desenvolvedor Java | Estudante de Análise e Desenvolvimento de Sistemas
-</h3>
+# 🌸 Olá, eu sou **Emanuela Azevedo** 💖
 
-<p align="center">
-Apaixonado por tecnologia e por transformar ideias em soluções.<br>
-Atualmente focado em desenvolvimento Back-end com Java e Spring Boot,
-sempre buscando aprender novas tecnologias.
-</p>
+### 💻 Desenvolvedora Java • Estudante de Análise e Desenvolvimento de Sistemas
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Apaixonada+por+Tecnologia+%F0%9F%92%96;Java+%7C+Spring+Boot+%7C+React" />
+
+</div>
 
 ---
 
-## 🚀 Tecnologias
+## 💗 Sobre mim
+
+✨ Apaixonada por tecnologia e desenvolvimento de software.
+
+🌱 Atualmente estudando **Java**, **Spring Boot**, **React** e **MySQL**.
+
+🚀 Sempre em busca de aprender algo novo e criar soluções que façam a diferença.
+
+---
+
+## 💕 Tecnologias
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github" />
-
 </p>
 
 ---
 
-<table>
-<tr>
-
-<td width="50%">
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Estudante de ADS
-- ☕ Desenvolvedor Java
-- 🌱 Aprendendo Spring Boot
-- 💙 Apaixonado por tecnologia
-- 🚀 Buscando minha primeira oportunidade
-
-</td>
-
-<td width="50%">
-
-## 📚 Atualmente
-
-- 🔥 Desenvolvendo projetos Java
-- 🌱 Estudando APIs REST
-- 💻 Aprendendo React
-- 📖 Melhorando Front-end
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⭐ Projetos
-
-| Projeto | Descrição |
-|---------|-----------|
-| 🍔 **Sistema SalgAki** | Sistema completo para gerenciamento de salgaderia utilizando Java + Spring Boot + MySQL |
-| 🖥️ **Sistema SalgAki Front-end** | Interface moderna utilizando HTML, CSS e JavaScript |
-
----
-
-# 📊 Habilidades
-
-Java
-
-██████████████████░░ 90%
-
-Spring Boot
-
-█████████████████░░░ 85%
-
-MySQL
-
-████████████████░░░░ 80%
-
-JavaScript
-
-███████████████░░░░░ 75%
-
-React
-
-██████████████░░░░░░ 70%
-
----
-
-# 📈 Estatísticas
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Emanuela-Azevedo&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuela-Azevedo&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Conquistas
+## 🌷 Contato
 
-<p align="center">
+📧 **emanuela.dev@outlook.com**
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&row=1&column=6"/>
+🐱 GitHub: **github.com/Emanuela-Azevedo**
 
-</p>
-
----
-
-# 🌎 Onde me encontrar
-
-📧 email@email.com
-
-💼 LinkedIn
-
-🐙 GitHub
+🇧🇷 Brasil
 
 ---
 
 <div align="center">
 
-> *"Código é como humor. Quando você tem que explicar, é ruim."* — Cory House
+💖 *"Transformando café ☕ em código desde 2024."*
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
 </div>
+
 
