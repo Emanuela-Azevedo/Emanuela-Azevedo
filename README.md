@@ -1,46 +1,44 @@
 <div align="center">
 
-# 🌸 Olá, eu sou Emanuela Azevedo 💖
+<h1>Olá, eu sou <strong>Emanuela Azevedo</strong> 👋</h1>
 
-### ☕ Desenvolvedora Java | Estudante de ADS
+<h3>Desenvolvedora Back-end Java • Spring Boot • APIs REST</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Bem-vinda(o)+ao+meu+GitHub!;Java+%7C+Spring+Boot+%7C+React;Sempre+aprendendo+algo+novo+%F0%9F%8C%B8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=850&lines=Desenvolvedora+Back-end+Java;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Construindo+solu%C3%A7%C3%B5es+modernas+e+escal%C3%A1veis;Sempre+aprendendo+e+evoluindo+como+desenvolvedora"/>
 
 </div>
 
 ---
 
-## 🌷 Sobre mim
+## 💗 Sobre mim
 
-💖 Apaixonada por tecnologia e desenvolvimento.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedora Back-end em formação, apaixonada por tecnologia e por criar soluções que gerem impacto.
 
-☕ Desenvolvendo aplicações com Java e Spring Boot.
-
-🌱 Aprendendo cada dia mais para construir projetos incríveis.
+Atualmente concentro meus estudos em **Java**, **Spring Boot**, **MySQL** e desenvolvimento de APIs REST, buscando escrever código limpo, escalável e seguindo boas práticas de desenvolvimento.
 
 ---
 
-## 💕 Tecnologias
+## 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github,vscode,idea"/>
 </p>
 
 ---
 
-# 📈 Minhas Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Emanuela-Azevedo&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Emanuela-Azevedo&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuela-Azevedo&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuela-Azevedo&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Sequência de Commits
+## 🔥 Sequência de Contribuições
 
 <div align="center">
 
@@ -50,29 +48,49 @@
 
 ---
 
-# 📅 Minhas Contribuições
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emanuela-Azevedo&theme=tokyo-night&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emanuela-Azevedo&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=FF69B4&line=FF69B4&point=FFFFFF"/>
 
 </div>
 
 ---
 
-# 🏆 Conquistas
+## 🏆 Conquistas
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Emanuela-Azevedo&theme=radical&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Emanuela-Azevedo&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 
 ---
 
+## 📫 Contato
+
+<p align="center">
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/E-mail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Emanuela-Azevedo">
+<img src="https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
 
-### 💖 "Transformando ideias em código."
+### ✨ *Transformando ideias em soluções através da tecnologia.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
