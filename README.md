@@ -2,7 +2,7 @@
 
 # 🌸 Olá, eu sou **Emanuela Azevedo** 
 
-### 💻 Desenvolvedora Java • Estudante de Análise e Desenvolvimento de Sistemas
+### Estudante de Análise e Desenvolvimento de Sistemas
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Apaixonada+por+Tecnologia+%F0%9F%92%96;Java+%7C+Spring+Boot+%7C+React" />
 
