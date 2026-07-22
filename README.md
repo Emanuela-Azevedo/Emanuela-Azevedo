@@ -28,18 +28,6 @@
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Emanuela-Azevedo&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuela-Azevedo&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌷 Contato
 
 📧 **emanuela20azevedo@gmailcom**
