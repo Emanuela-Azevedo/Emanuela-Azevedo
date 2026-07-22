@@ -8,36 +8,6 @@
 
 </div>
 
----
-
-## 💗 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedora Back-end e front-end em formação, apaixonada por tecnologia e por criar soluções que gerem impacto.
-
-Atualmente concentro meus estudos em **Java**, **Spring Boot**, **MySQL** e desenvolvimento de APIs REST, buscando escrever código limpo, escalável e seguindo boas práticas de desenvolvimento.
-
----
-
-## Tecnologias
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github,vscode,idea"/>
-</p>
-
-
----
-
-## Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Emanuela-Azevedo&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-
 ## 📫 Contato
 
 <p align="center">
