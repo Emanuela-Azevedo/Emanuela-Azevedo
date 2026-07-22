@@ -1,103 +1,69 @@
-<h1 align="center">Olá, eu sou a Emanuela Azevedo 👋</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Desenvolvedora Java • 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Emanuela%20Azevedo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<p align="center">
-Apaixonada por tecnologia, desenvolvimento de software e por transformar ideias em soluções.
+<br>
+
+<h2>✨ Desenvolvedora de Software ✨</h2>
+
+<p>
+Apaixonada por tecnologia, criação de soluções e desenvolvimento de sistemas.
+<br>
+Transformando ideias em experiências digitais.
 </p>
 
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Desenvolvimento+Web;Front-end+%7C+Back-end;Sempre+aprendendo+algo+novo;Construindo+meu+futuro+na+tecnologia" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,mysql,git,github,vscode" />
+
+<br><br>
+
+<a href="SEU_LINK_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="SEU_LINK_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+
 ---
+
+<div align="center">
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**
-- ☕ Focada em desenvolvimento **Back-end com Java e Spring Boot**
-- 🌱 Estudando **Spring Boot, APIs REST e React**
-- 📚 Sempre buscando aprender novas tecnologias
-- 🚀 Construindo projetos para fortalecer meu portfólio
+Sou estudante de tecnologia e desenvolvedora em formação, buscando sempre evoluir minhas habilidades através de projetos, desafios e novas experiências.
 
----
+Meu objetivo é criar aplicações modernas, funcionais e com boas experiências para os usuários.
 
-## 🚀 Tecnologias
+</div>
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github,vscode,idea" />
+<br>
 
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
 
-## 📊 Estatísticas
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
 
-<p align="center">
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Emanuela-Azevedo&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuela-Azevedo&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
 
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&margin-w=10" />
 
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Emanuela-Azevedo&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## ⭐ Projetos em Destaque
-
-### 🍔 Sistema SalgAki
-
-Sistema completo para gerenciamento de uma salgaderia.
-
-**Tecnologias**
-
-- Java
-- Spring Boot
-- MySQL
-
-🔗 https://github.com/Emanuela-Azevedo/Sistema-SalgAki
-
----
-
-### 💻 Sistema SalgAki Front-end
-
-Interface web moderna integrada ao back-end.
-
-**Tecnologias**
-
-- HTML5
-- CSS3
-- JavaScript
-- Vite
-
-🔗 https://github.com/Emanuela-Azevedo/Sistema-SalgAki-Front
-
----
-
-## 📫 Contato
-
-<p align="center">
-
-<a href="mailto:SEUEMAIL@outlook.com">
-<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/SEULINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Emanuela-Azevedo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
 
 </p>
 
