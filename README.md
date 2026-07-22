@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Olá, eu sou **Emanuela Azevedo** 💖
+# 🌸 Olá, eu sou **Emanuela Azevedo** 
 
 ### 💻 Desenvolvedora Java • Estudante de Análise e Desenvolvimento de Sistemas
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 💕 Tecnologias
+##  Tecnologias
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github" />
@@ -42,7 +42,7 @@
 
 ## 🌷 Contato
 
-📧 **emanuela.dev@outlook.com**
+📧 **emanuela20azevedo@gmailcom**
 
 🐱 GitHub: **github.com/Emanuela-Azevedo**
 
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-💖 *"Transformando café ☕ em código desde 2024."*
+💖 *"Transformando café ☕ em código desde 2023."*
 
 <br><br>
 
