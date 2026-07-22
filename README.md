@@ -12,33 +12,22 @@
 
 ## 💗 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedora Back-end em formação, apaixonada por tecnologia e por criar soluções que gerem impacto.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedora Back-end e front-end em formação, apaixonada por tecnologia e por criar soluções que gerem impacto.
 
 Atualmente concentro meus estudos em **Java**, **Spring Boot**, **MySQL** e desenvolvimento de APIs REST, buscando escrever código limpo, escalável e seguindo boas práticas de desenvolvimento.
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github,vscode,idea"/>
 </p>
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Emanuela-Azevedo&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuela-Azevedo&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
 
 ---
 
-## 🔥 Sequência de Contribuições
+## Sequência de Contribuições
 
 <div align="center">
 
@@ -48,31 +37,12 @@ Atualmente concentro meus estudos em **Java**, **Spring Boot**, **MySQL** e dese
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emanuela-Azevedo&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=FF69B4&line=FF69B4&point=FFFFFF"/>
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Emanuela-Azevedo&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
----
 
 ## 📫 Contato
 
 <p align="center">
 
-<a href="mailto:seuemail@email.com">
+<a href="mailto:emanuela20azevedo@email.com">
 <img src="https://img.shields.io/badge/E-mail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -90,7 +60,7 @@ Atualmente concentro meus estudos em **Java**, **Spring Boot**, **MySQL** e dese
 
 <div align="center">
 
-### ✨ *Transformando ideias em soluções através da tecnologia.*
+### *Transformando café ☕ em código desde 2023.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
