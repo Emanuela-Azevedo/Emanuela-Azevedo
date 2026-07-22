@@ -2,7 +2,7 @@
 
 <h1>Olá, eu sou <strong>Emanuela Azevedo</strong> 👋</h1>
 
-<h3>Desenvolvedora Back-end Java • Spring Boot • APIs REST</h3>
+<h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=850&lines=Desenvolvedora+Back-end+Java;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Construindo+solu%C3%A7%C3%B5es+modernas+e+escal%C3%A1veis;Sempre+aprendendo+e+evoluindo+como+desenvolvedora"/>
 
